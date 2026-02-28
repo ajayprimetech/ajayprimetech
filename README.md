@@ -1,15 +1,21 @@
-💫 Hi 👋, I'm Ajay Sisodiya
-A Passionate Python Backend Developer from India 🇮🇳
-📧 Email Me 👉 ajrajput9389@gmail.com
-Open for Internship | Full-Time | Collaboration
-🔭 I’m currently working on: Backend Web Applications using Python & Django
-🌱 I’m currently learning: Data Structures & Algorithms, REST API Development
-👯 I’m looking to collaborate on: Django Projects, Backend Systems, API Development
-🤔 I’m looking for help with: Improving Backend Skills & System Design
-💬 Ask me about: Python, Django, SQL, Backend Development
-📫 How to reach me: ajrajput9389@gmail.com
-⚡ Fun fact: I enjoy solving coding problems and building real-world applications 🚀
+# 💫 Hi 👋, I'm Ajay Sisodiya  
 
+## 🚀 A Passionate Python Backend Developer from India 🇮🇳  
+
+📧 *Email:* ajrajput9389@gmail.com  
+💼 *Open for:* Internship | Full-Time | Collaboration  
+
+---
+
+## 👨‍💻 About Me  
+
+- 🔭 I’m currently working on Backend Web Applications using Python & Django  
+- 🌱 I’m currently learning Data Structures & Algorithms, REST API Development  
+- 👯 I’m looking to collaborate on Django Projects, Backend Systems & API Development  
+- 🤔 I’m looking for help with Improving Backend Skills & System Design  
+- 💬 Ask me about Python, Django, SQL & Backend Development  
+- 📫 How to reach me: ajrajput9389@gmail.com  
+- ⚡ Fun fact: I enjoy solving coding problems and building real-world applications 🚀
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=alamimran613&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
