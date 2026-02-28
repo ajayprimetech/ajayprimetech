@@ -9,6 +9,10 @@ Open for Internship | Full-Time | Collaboration
 💬 Ask me about: Python, Django, SQL, Backend Development
 📫 How to reach me: ajrajput9389@gmail.com
 ⚡ Fun fact: I enjoy solving coding problems and building real-world applications 🚀
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=alamimran613&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ajayprimetech) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ajayprimetech) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ajayprimetech) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ajrajput9389@gmail.com) 
 
